@@ -1,5 +1,9 @@
 ##reinforcement-learning-robot-in-maze
 ------------------------------------------------------------
+Reinforcement learning, Q learning algorithm, implementation on a 
+robot that tryies to solve randomly created maze and reach the goal.
+
+Note that you can run .m file both on Matlab and Octave.
 
 1. **reinforcement_learning.m**  
      Initialize necessary variables and matrices.   
