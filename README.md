@@ -7,5 +7,5 @@
 2. **create_random_maze.m**    
      Create maze matrix and put random obstacles in the maze.
 3. **construct_q_matrix.m**       	
-4. **pseudo_code.jpg**
+4. **pseudo_code.jpg**  
     ![alt text][pseudo_code.jpg] 
