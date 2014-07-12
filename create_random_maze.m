@@ -7,10 +7,10 @@ function [ maze ] = create_random_maze(N, r)
 
 maze_temp = zeros(N, N);
 
-for i=1:N
-    for j=1:N
+for i = 1 : N
+    for j = 1 : N
         if rand < 0.01 * r
-            maze_temp(i,j) = 1;
+            maze_temp(i, j) = 1;
         end
     end
 end
