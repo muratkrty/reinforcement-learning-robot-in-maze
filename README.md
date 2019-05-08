@@ -1,4 +1,4 @@
-##reinforcement-learning-robot-in-maze
+# reinforcement-learning-robot-in-maze
 ------------------------------------------------------------
 Reinforcement learning, a Q learning algorithm, implementation on a 
 robot that tryies to solve randomly created maze and reach the goal.
